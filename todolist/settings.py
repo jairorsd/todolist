@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@r-hxp3q4owm&*nt=yupan2w%&_d4a$ypz$q5qzbdvyhuh#e(%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['meutodoapp.cloudns.biz', 'localhost', '127.0.0.1']
 
 
 # Application definition
